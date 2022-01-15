@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @donovanhargett
+- 👋 Hi, I’m Donovan Hargett!
 - 👀 I’m interested in Cyber Security and Software Development
 - 🌱 I’m currently learning the baics of Web Development in my classes!
 - 📫 How to reach me www.Linkedin.com/DonovanHargett
