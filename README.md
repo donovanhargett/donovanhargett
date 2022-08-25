@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Donovan Hargett!
-- 👀 I’m interested in Web Developement and Software Engineering 
-- 🌱 I’m currently learning the basics of Web Development in my classes!
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning OOP and Database design! 
 - 📫 How to reach me https://www.linkedin.com/in/donovanhargett/
 
 <!---
