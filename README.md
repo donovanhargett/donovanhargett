@@ -1,4 +1,4 @@
- Hi, I’m Donovan Hargett and I'm currently looking for an intership in consulting!  
+ Hi, I’m Donovan Hargett and I'm interesting in Consulting and Software Engineering!
  https://www.linkedin.com/in/donovanhargett/
 
 <!---
